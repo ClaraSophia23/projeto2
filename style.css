@@ -1,0 +1,48 @@
+*{
+   box-sizing: border-box;
+   margin: 
+
+}
+
+.container{
+    margin: 50px auto;
+    max-width: 900px;
+    padding: 20px;
+}
+
+h1{
+    color: gray;
+    margin: bottom 25px; ;
+}
+
+table{
+    background-color: antiquewhite;
+    width: 100px;
+    border-collapse: collapse;
+
+}
+
+th,td{
+    border: 1px solid #d1d5db;
+    padding: 14px;
+    text-align: left;
+}
+
+th{
+    background-color: midnightblue;
+    color: #faf8f8;
+
+}
+
+th:nth-child(event){
+    background-color: antiquewhite;
+}
+
+tr:hover{
+    background-color: cornflowerblue;
+
+}
+
+.preco{
+    
+}
